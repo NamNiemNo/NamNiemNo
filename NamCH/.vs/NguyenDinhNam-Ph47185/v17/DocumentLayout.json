@@ -1,0 +1,523 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\repository\\trungtamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\trungtamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\irepository\\itrungtamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\irepository\\itrungtamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\domainclass\\trungtam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\domainclass\\trungtam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1336F7AB-9C8D-4C1D-BCC3-514AEB6CAAC3}|GUI\\GUI.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1336F7AB-9C8D-4C1D-BCC3-514AEB6CAAC3}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\repository\\sanphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\sanphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\repository\\nhanvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\nhanvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\irepository\\ithucungrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\irepository\\ithucungrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD4F248-9C7F-4EAF-8EBF-C4CB0986E8B9}|BUS\\BUS.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\bus\\iservice\\itrungtamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD4F248-9C7F-4EAF-8EBF-C4CB0986E8B9}|BUS\\BUS.csproj|solutionrelative:bus\\iservice\\itrungtamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD4F248-9C7F-4EAF-8EBF-C4CB0986E8B9}|BUS\\BUS.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\bus\\service\\trungtamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD4F248-9C7F-4EAF-8EBF-C4CB0986E8B9}|BUS\\BUS.csproj|solutionrelative:bus\\service\\trungtamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\repository\\thucungrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\thucungrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\repository\\congtyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\congtyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\irepository\\icongtyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\irepository\\icongtyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\domainclass\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\domainclass\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1336F7AB-9C8D-4C1D-BCC3-514AEB6CAAC3}|GUI\\GUI.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1336F7AB-9C8D-4C1D-BCC3-514AEB6CAAC3}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD4F248-9C7F-4EAF-8EBF-C4CB0986E8B9}|BUS\\BUS.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\bus\\service\\cuahangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD4F248-9C7F-4EAF-8EBF-C4CB0986E8B9}|BUS\\BUS.csproj|solutionrelative:bus\\service\\cuahangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\repository\\cuahangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\cuahangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD4F248-9C7F-4EAF-8EBF-C4CB0986E8B9}|BUS\\BUS.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\bus\\iservice\\icuahangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD4F248-9C7F-4EAF-8EBF-C4CB0986E8B9}|BUS\\BUS.csproj|solutionrelative:bus\\iservice\\icuahangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\irepository\\inhanvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\irepository\\inhanvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\irepository\\icuahangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\irepository\\icuahangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\domainclass\\thucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\domainclass\\thucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\irepository\\ichunhanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\irepository\\ichunhanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\irepository\\inhacungcaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\irepository\\inhacungcaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\irepository\\isanphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\irepository\\isanphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1336F7AB-9C8D-4C1D-BCC3-514AEB6CAAC3}|GUI\\GUI.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1336F7AB-9C8D-4C1D-BCC3-514AEB6CAAC3}|GUI\\GUI.csproj|solutionrelative:gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1336F7AB-9C8D-4C1D-BCC3-514AEB6CAAC3}|GUI\\GUI.csproj|C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\gui\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1336F7AB-9C8D-4C1D-BCC3-514AEB6CAAC3}|GUI\\GUI.csproj|solutionrelative:gui\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\domainclass\\cuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\domainclass\\cuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\domainclass\\congty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\domainclass\\congty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\repository\\nhacungcaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\nhacungcaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\dal\\repository\\chunhanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEA023F-29BB-4FA5-91FE-63BC4A3D9C63}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\chunhanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 260,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SanPhamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Repository\\SanPhamRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\SanPhamRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Repository\\SanPhamRepository.cs",
+              "RelativeToolTip": "DAL\\Repository\\SanPhamRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trungtam.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\DomainClass\\Trungtam.cs",
+              "RelativeDocumentMoniker": "DAL\\DomainClass\\Trungtam.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\DomainClass\\Trungtam.cs",
+              "RelativeToolTip": "DAL\\DomainClass\\Trungtam.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITrungTamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\IRepository\\ITrungTamRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepository\\ITrungTamRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\IRepository\\ITrungTamRepository.cs",
+              "RelativeToolTip": "DAL\\IRepository\\ITrungTamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:23:04.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrungTamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Repository\\TrungTamRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\TrungTamRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Repository\\TrungTamRepository.cs",
+              "RelativeToolTip": "DAL\\Repository\\TrungTamRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Context\\DBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Context\\DBContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Context\\DBContext.cs",
+              "RelativeToolTip": "DAL\\Context\\DBContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA7wCQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhanVienRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Repository\\NhanVienRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\NhanVienRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Repository\\NhanVienRepository.cs",
+              "RelativeToolTip": "DAL\\Repository\\NhanVienRepository.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.567Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IThuCungRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\IRepository\\IThuCungRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepository\\IThuCungRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\IRepository\\IThuCungRepository.cs",
+              "RelativeToolTip": "DAL\\IRepository\\IThuCungRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITrungTamService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\BUS\\IService\\ITrungTamService.cs",
+              "RelativeDocumentMoniker": "BUS\\IService\\ITrungTamService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\BUS\\IService\\ITrungTamService.cs",
+              "RelativeToolTip": "BUS\\IService\\ITrungTamService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TrungTamService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\BUS\\Service\\TrungTamService.cs",
+              "RelativeDocumentMoniker": "BUS\\Service\\TrungTamService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\BUS\\Service\\TrungTamService.cs",
+              "RelativeToolTip": "BUS\\Service\\TrungTamService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThuCungRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Repository\\ThuCungRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\ThuCungRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Repository\\ThuCungRepository.cs",
+              "RelativeToolTip": "DAL\\Repository\\ThuCungRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\GUI\\Form1.cs",
+              "RelativeToolTip": "GUI\\Form1.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAA9wL4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CuaHangService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\BUS\\Service\\CuaHangService.cs",
+              "RelativeDocumentMoniker": "BUS\\Service\\CuaHangService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\BUS\\Service\\CuaHangService.cs",
+              "RelativeToolTip": "BUS\\Service\\CuaHangService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Nhanvien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\DomainClass\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "DAL\\DomainClass\\Nhanvien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\DomainClass\\Nhanvien.cs",
+              "RelativeToolTip": "DAL\\DomainClass\\Nhanvien.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:40:45.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICongTyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\IRepository\\ICongTyRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepository\\ICongTyRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\IRepository\\ICongTyRepository.cs",
+              "RelativeToolTip": "DAL\\IRepository\\ICongTyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:21:54.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CongTyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Repository\\CongTyRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\CongTyRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Repository\\CongTyRepository.cs",
+              "RelativeToolTip": "DAL\\Repository\\CongTyRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICuaHangService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\BUS\\IService\\ICuaHangService.cs",
+              "RelativeDocumentMoniker": "BUS\\IService\\ICuaHangService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\BUS\\IService\\ICuaHangService.cs",
+              "RelativeToolTip": "BUS\\IService\\ICuaHangService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CuaHangRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Repository\\CuaHangRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\CuaHangRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Repository\\CuaHangRepository.cs",
+              "RelativeToolTip": "DAL\\Repository\\CuaHangRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwC4AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "INhanVienRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\IRepository\\INhanVienRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepository\\INhanVienRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\IRepository\\INhanVienRepository.cs",
+              "RelativeToolTip": "DAL\\IRepository\\INhanVienRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:21:39.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICuaHangRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\IRepository\\ICuaHangRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepository\\ICuaHangRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\IRepository\\ICuaHangRepository.cs",
+              "RelativeToolTip": "DAL\\IRepository\\ICuaHangRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Thucung.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\DomainClass\\Thucung.cs",
+              "RelativeDocumentMoniker": "DAL\\DomainClass\\Thucung.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\DomainClass\\Thucung.cs",
+              "RelativeToolTip": "DAL\\DomainClass\\Thucung.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T20:03:09.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IChuNhanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\IRepository\\IChuNhanRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepository\\IChuNhanRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\IRepository\\IChuNhanRepository.cs",
+              "RelativeToolTip": "DAL\\IRepository\\IChuNhanRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "INhaCungCapRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\IRepository\\INhaCungCapRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepository\\INhaCungCapRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\IRepository\\INhaCungCapRepository.cs",
+              "RelativeToolTip": "DAL\\IRepository\\INhaCungCapRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:21:43.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ISanPhamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\IRepository\\ISanPhamRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepository\\ISanPhamRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\IRepository\\ISanPhamRepository.cs",
+              "RelativeToolTip": "DAL\\IRepository\\ISanPhamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:21:14.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\GUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\GUI\\Form1.Designer.cs",
+              "RelativeToolTip": "GUI\\Form1.Designer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwCEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\GUI\\Form1.resx",
+              "RelativeDocumentMoniker": "GUI\\Form1.resx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\GUI\\Form1.resx",
+              "RelativeToolTip": "GUI\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-20T17:30:50.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cuahang.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\DomainClass\\Cuahang.cs",
+              "RelativeDocumentMoniker": "DAL\\DomainClass\\Cuahang.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\DomainClass\\Cuahang.cs",
+              "RelativeToolTip": "DAL\\DomainClass\\Cuahang.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Congty.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\DomainClass\\Congty.cs",
+              "RelativeDocumentMoniker": "DAL\\DomainClass\\Congty.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\DomainClass\\Congty.cs",
+              "RelativeToolTip": "DAL\\DomainClass\\Congty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NhaCungCapRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Repository\\NhaCungCapRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\NhaCungCapRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Repository\\NhaCungCapRepository.cs",
+              "RelativeToolTip": "DAL\\Repository\\NhaCungCapRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ChuNhanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Repository\\ChuNhanRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\ChuNhanRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\DAL\\Repository\\ChuNhanRepository.cs",
+              "RelativeToolTip": "DAL\\Repository\\ChuNhanRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:30:50.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

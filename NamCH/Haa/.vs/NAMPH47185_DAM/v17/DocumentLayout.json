@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\Haa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD99713D-2D0F-49AA-83A1-ACBCFBBD4265}|Gui\\Gui.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\haa\\gui\\san pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD99713D-2D0F-49AA-83A1-ACBCFBBD4265}|Gui\\Gui.csproj|solutionrelative:gui\\san pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9DC996-822D-4A19-946E-CC8A13E063D9}|BUS\\BUS.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\haa\\bus\\services\\sanphamservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9DC996-822D-4A19-946E-CC8A13E063D9}|BUS\\BUS.csproj|solutionrelative:bus\\services\\sanphamservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49A0574-FE9D-4C4C-A8C4-E552D1342185}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\haa\\dal\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49A0574-FE9D-4C4C-A8C4-E552D1342185}|DAL\\DAL.csproj|solutionrelative:dal\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD99713D-2D0F-49AA-83A1-ACBCFBBD4265}|Gui\\Gui.csproj|c:\\users\\admin\\desktop\\hoangthaison_ph55962\\namch\\haa\\gui\\san pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD99713D-2D0F-49AA-83A1-ACBCFBBD4265}|Gui\\Gui.csproj|solutionrelative:gui\\san pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "San Pham.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\Haa\\Gui\\San Pham.cs",
+              "RelativeDocumentMoniker": "Gui\\San Pham.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\Haa\\Gui\\San Pham.cs",
+              "RelativeToolTip": "Gui\\San Pham.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAkwIgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:27:34.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanphamServices.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\Haa\\BUS\\Services\\SanphamServices.cs",
+              "RelativeDocumentMoniker": "BUS\\Services\\SanphamServices.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\Haa\\BUS\\Services\\SanphamServices.cs",
+              "RelativeToolTip": "BUS\\Services\\SanphamServices.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:26:31.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "San Pham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\Haa\\Gui\\San Pham.cs",
+              "RelativeDocumentMoniker": "Gui\\San Pham.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\Haa\\Gui\\San Pham.cs [Design]",
+              "RelativeToolTip": "Gui\\San Pham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:21:42.868Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\Haa\\DAL\\Context\\DBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Context\\DBContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HoangThaiSon_PH55962\\NamCH\\Haa\\DAL\\Context\\DBContext.cs",
+              "RelativeToolTip": "DAL\\Context\\DBContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:19:40.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
